@@ -26,13 +26,13 @@ Focused on building intelligent systems and learning core ML concepts.
 
 </p>
 
----
+<!-- ---
 
-<!--### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-</p> -->
+</p> 
 
 ---
 
@@ -40,4 +40,4 @@ Focused on building intelligent systems and learning core ML concepts.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:251a0b,100:251a0b&height=80&section=footer"/>
 
-</div>
+</div>-->
