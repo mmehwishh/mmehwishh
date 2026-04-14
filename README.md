@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251a0b,100:251a0b&height=120&section=header&text=Mehwish%20Zehra&fontSize=38&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251a0b,100:251a0b&height=120&section=header&text=𝑀𝑒ℎ𝑤𝑖𝑠ℎ%20𝑍𝑒ℎ𝑟𝑎&fontSize=38&fontColor=ffffff" width="100%"/>
 
 </div>
 
