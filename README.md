@@ -1,4 +1,15 @@
+<h1 align="center">
+  hi, i'm <strong>Mehwish</strong> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=B87A3D&center=true&vCenter=true&width=200&lines=;cs+student+👩‍💻;bug+whisperer+🐛;curious+coder+✨" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <em>cs student · curious coder · bug whisperer · 📍 Pakistan</em>
+</p>
+
 ---
+
+### 🐱 about me---
 
 ### 🛠️ tech stack
 
