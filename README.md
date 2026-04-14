@@ -1,43 +1,37 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251a0b,100:251a0b&height=120&section=header&text=𝑀𝑒ℎ𝑤𝑖𝑠ℎ%20𝑍𝑒ℎ𝑟𝑎&fontSize=38&fontColor=ffffff" width="100%"/>
+# Hi, I'm Mehwish Zehra 👋
 
-</div>
-
----
-
-<h3 align="center">Machine Learning Enthusiast 🤖</h3>
-
-<p align="center">
-Focused on building intelligent systems and learning core ML concepts.
-</p>
+### Aspiring Software Engineer & AI Researcher
+Focused on bridging the gap between elegant software engineering and intelligent machine learning systems. Currently exploring the nuances of full-stack development and data-driven solutions.
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-251a0b?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-251a0b?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Data Science](https://img.shields.io/badge/Data%20Science-251a0b?style=for-the-badge&logo=pandas&logoColor=white)
-![C++](https://img.shields.io/badge/C++-251a0b?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Git](https://img.shields.io/badge/Git-251a0b?style=for-the-badge&logo=git&logoColor=white)
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
-<!-- ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-</p> 
 
 ---
 
-<div align="center">
+### 📊 GitHub Activity
+*Replace `mmehwishh` with your actual GitHub username.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251a0b,100:251a0b&height=80&section=footer"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmehwishh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmehwishh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-</div>-->
+---
+
+### 🚀 Let's Connect
+* [LinkedIn](https://linkedin.com/in/yourprofile)
+* [Portfolio/Website](https://yourlink.com)
+
+</div>
