@@ -1,36 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b87a3d,100:2d6e5a&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251a0b,100:251a0b&height=120&section=header&text=Mehwish%20Zehra&fontSize=38&fontColor=ffffff" width="100%"/>
 
 </div>
 
-<br/>
-<h1>
-&nbsp; i'm &nbsp;<strong>Mehwish</strong> ·
-</h1>
+---
 
-<p>&nbsp;&nbsp;<em>cs student &nbsp;•&nbsp; curious coder &nbsp;•&nbsp; Pakistan 🇵🇰</em></p>
+<h3 align="center">Machine Learning Enthusiast 🤖</h3>
 
-<br/>
+<p align="center">
+Focused on building intelligent systems and learning core ML concepts.
+</p>
 
-```python
-currently  = "learning data structures + web dev"
-location   = "Pakistan 🇵🇰"
-status     = "always learning, always building"
-```
+---
 
-<br/>
+### 🛠 Tech Stack
 
-### tech stack
+<p align="center">
 
-![HTML](https://img.shields.io/badge/HTML%20%26%20CSS-c8924a?style=flat-square&logo=html5&logoColor=0d0d0d)
-![JavaScript](https://img.shields.io/badge/JavaScript-c8924a?style=flat-square&logo=javascript&logoColor=0d0d0d)
-![Python](https://img.shields.io/badge/Python-5a9a78?style=flat-square&logo=python&logoColor=0d0d0d)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-5a9a78?style=flat-square&logo=cplusplus&logoColor=0d0d0d)
-![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-251a0b?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-251a0b?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Data Science](https://img.shields.io/badge/Data%20Science-251a0b?style=for-the-badge&logo=pandas&logoColor=white)
+![C++](https://img.shields.io/badge/C++-251a0b?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Git](https://img.shields.io/badge/Git-251a0b?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+</p>
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d6e5a,100:b87a3d&height=4&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251a0b,100:251a0b&height=80&section=footer"/>
+
 </div>
