@@ -11,7 +11,7 @@
 <p align="center">
 Focused on building intelligent systems and learning core ML concepts.
 </p>
-
+<!--
 ---
 
 ### 🛠 Tech Stack
@@ -40,4 +40,4 @@ Focused on building intelligent systems and learning core ML concepts.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:251a0b,100:251a0b&height=80&section=footer"/>
 
-</div>this is current style can you see ktna pathetic lag raha make it better
+-->
